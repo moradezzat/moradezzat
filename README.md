@@ -1,8 +1,6 @@
 <h1 align="center">Hi there, I'm Morad 👋</h1>
 <p align="center">
-  💻 Software Engineer | Front-End & Discord Apps Developer  
-  <br>
-  From Egypt — Building a global future!
+  💻 Expert Egyptian Web Developer
 </p>
 
 <p align="center">
@@ -24,7 +22,6 @@
 
 - 🔥 4+ years of experience with **JavaScript**, 5+ years with **HTML/CSS**
 - 🚀 Working with **Next.js**, **MongoDB**, and **Discord.js**
-- 💼 40 days of experience in **Data Entry**
 - 💡 Passionate about building creative, scalable, and high-performance solutions
 - 🎯 Goal: Become a full-stack web developer and work remotely worldwide
 
@@ -50,7 +47,7 @@ A modern, fully responsive restaurant website built with performance and customi
 
 ---
 
-### 🤖 Swiftbot – Discord Assistant Bot
+### 🤖 Swiftbot – Discord Assistant Bot (Personal Project)
 
 An advanced all-in-one customizable Discord bot made to manage and enhance communities.
 
