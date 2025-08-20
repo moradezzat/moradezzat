@@ -20,7 +20,7 @@
 
 ## 👨‍💻 About Me
 
-- 🔥 4+ years of experience with **JavaScript**, 5+ years with **HTML/CSS**
+- 🔥 3+ years of experience with **JavaScript**, 5+ years with **HTML/CSS**
 - 🚀 Working with **Next.js**, **MongoDB**, and **Discord.js**
 - 💡 Passionate about building creative, scalable, and high-performance solutions
 - 🎯 Goal: Become a full-stack web developer and work remotely worldwide
