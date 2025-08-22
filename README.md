@@ -42,8 +42,31 @@ A modern, fully responsive restaurant website built with performance and customi
 - 📱 Responsive Design (up to 300px width)
 - 📦 Includes Menu Modal and Contact Form
 
-🔗 [View on GitHub](https://github.com/moradezzat/SEC-Restaurant)  
+🔗 [View on GitHub](https://github.com/moradezzat/SEC-Restaurant)
 🔗 [View live](https://ssec.vercel.app)
+
+---
+
+### ❄️ Team Power X – Cooling & AC Services Website
+
+A professional, modern, and fully responsive website for a cooling and air conditioning services team.
+Designed with a clean UI and clear service breakdown to maximize user trust and conversions.
+
+**Features:**
+- 🏠 Multiple sections: Home, Services, About, Contact, Book Now
+- ⚡ Service Categories:
+  - AC Installation (Split & Window Units, Piping, Insulation)
+  - Repair & Maintenance (Diagnostics, Refrigerant Recharge, System Fixes)
+  - Cleaning (Filter cleaning, internal pipe & dust removal)
+  - Central AC Systems (Installation, Maintenance, Control Upgrades)
+- 📊 About Section: 10+ years of experience, thousands of satisfied clients
+- ⭐ Customer Testimonials Section
+- 📧 Contact Form + Direct Phone Support
+- 📱 Fully responsive and mobile-friendly design
+- 🚀 High performance optimizations (99+ Lighthouse score)
+
+🔗 [View on GitHub](https://github.com/moradezzat/Power-X)
+🔗 [View live](https://pwrx.vercel.app/)
 
 ---
 
