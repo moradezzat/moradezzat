@@ -42,7 +42,7 @@ A modern, fully responsive restaurant website built with performance and customi
 - 📱 Responsive Design (up to 300px width)
 - 📦 Includes Menu Modal and Contact Form
 
-🔗 [View on GitHub](https://github.com/moradezzat/SEC-Restaurant)
+🔗 [View on GitHub](https://github.com/moradezzat/SEC-Restaurant)  
 🔗 [View live](https://ssec.vercel.app)
 
 ---
@@ -65,7 +65,7 @@ Designed with a clean UI and clear service breakdown to maximize user trust and 
 - 📱 Fully responsive and mobile-friendly design
 - 🚀 High performance optimizations (99+ Lighthouse score)
 
-🔗 [View on GitHub](https://github.com/moradezzat/Power-X)
+🔗 [View on GitHub](https://github.com/moradezzat/Power-X)  
 🔗 [View live](https://pwrx.vercel.app/)
 
 ---
