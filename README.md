@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Morad 👋</h1>
 <p align="center">
-  💻 Expert Egyptian Web Developer
+  💻 Expert Egyptian Backend & Web Developer
 </p>
 
 <p align="center">
