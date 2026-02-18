@@ -29,7 +29,7 @@
 
 ## 🌟 Featured Projects
 
-## Swiftbot API
+## Swiftbot Backend
 
 **RESTful Backend powering the Swiftbot Web Dashboard**
 
