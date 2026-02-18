@@ -20,7 +20,7 @@
 
 ## About Me
 
-- 1+ years of experience with **Next.js & React.js**, 4+ years of experience with **JavaScript**, and 6+ years with **HTML/CSS**
+- 1+ years of experience with **Next.js & React.js**, 5+ years of experience with **JavaScript**, and 6+ years with **HTML/CSS**
 - Working with **Next.js**, **React.js**, **MongoDB**, and **SQL**
 - Passionate about building creative, scalable, and high-performance solutions
 - Goal: Achieve customer's happiness by delivering professional projects as requested
