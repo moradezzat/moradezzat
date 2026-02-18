@@ -171,44 +171,6 @@ A high-performance, multilingual restaurant website built with scalability, resp
 
 ---
 
-## ❄️ Team Power X
-
-**Responsive Website for Cooling & AC Services**
-
-A modern, fully responsive website built for a professional cooling and air conditioning services team. Designed with a clean UI and structured content to enhance user trust, engagement, and conversion rates.
-
----
-
-### Key Features
-
-* **Comprehensive Service Sections:** Home, Services, About, Contact, Book Now
-* **Service Categories:**
-
-  * AC Installation: Split & Window units, piping, insulation
-  * Repair & Maintenance: Diagnostics, refrigerant recharge, system fixes
-  * Cleaning: Filter cleaning, internal pipe & dust removal
-  * Central AC Systems: Installation, maintenance, control upgrades
-* **Company Overview:** Highlights 10+ years of experience and thousands of satisfied clients
-* **Customer Testimonials:** Showcase positive client feedback
-* **Contact & Support:** Integrated contact form and direct phone access
-* **Performance & Responsiveness:** Mobile-friendly design with Lighthouse score ≥99
-
----
-
-### Tech Stack
-
-* Next.js (React-based frontend)
-* Tailwind CSS for modern styling and theming
-* Fully responsive design for all devices
-* Vercel deployment for live hosting
-
----
-
-🔗 [GitHub Repository](https://github.com/moradezzat/Power-X)  
-🔗 [Live Demo](https://pwrx.vercel.app)
-
----
-
 ## 🤖 Swiftbot
 
 **All-in-One Discord Assistant Bot** *(Personal Backend Project)*
