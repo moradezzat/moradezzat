@@ -171,7 +171,7 @@ A high-performance, multilingual restaurant website built with scalability, resp
 
 ---
 
-## 🤖 Swiftbot
+## Swiftbot
 
 **All-in-One Discord Assistant Bot** *(Personal Backend Project)*
 
