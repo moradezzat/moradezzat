@@ -20,10 +20,7 @@
 
 ## About Me
 
-- 1+ years of experience with **Next.js & React.js**, 5+ years of experience with **JavaScript**, and 6+ years with **HTML/CSS**
-- Working with **Next.js**, **React.js**, **MongoDB**, and **SQL**
-- Passionate about building creative, scalable, and high-performance solutions
-- Goal: Achieve customer's happiness by delivering professional projects as requested
+Full-Stack Web Developer with over six years of experience in HTML5 and CSS3 and more than five years of experience in JavaScript and backend development using Node.js. Over the past year, I have been building modern web applications with Next.js and React.js, focusing on performance, scalability, and maintainability. I have hands-on experience working with MongoDB and SQL databases, designing structured, efficient, and production-ready systems. I am dedicated to developing high-quality solutions that align with business objectives and deliver measurable value to clients.
 
 ---
 
