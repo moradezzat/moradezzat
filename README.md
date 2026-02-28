@@ -1,6 +1,6 @@
 <h1 align="center">Hey there, I'm Morad</h1>
 <p align="center">
-  💻 Junior Egyptian Full Stack Web Developer
+  💻 Mid-Level Egyptian Full Stack Web Developer
 </p>
 
 <p align="center">
